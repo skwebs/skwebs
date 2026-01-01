@@ -1,17 +1,18 @@
 # 👋 Hi, I'm Satish Kumar Sharma
 
 💻 Self-Taught Full-Stack & Mobile App Developer  
+👨‍🏫 Computer Teacher  
 🎓 M.Com | PGDCA  
-🔥 Passionate about coding and real-world problem solving
+🔥 Passionate about coding, teaching, and real-world problem solving
 
 ---
 
 ## 🚀 About Me
 
-I am a self-taught programmer with a strong passion for software and mobile application development.  
-With an academic background in **Commerce (M.Com)** and **Computer Applications (PGDCA)**, I bring analytical thinking and structured problem-solving into development.
+I am a **self-taught programmer and computer teacher** with a strong passion for software and mobile application development.  
+With an academic background in **Commerce (M.Com)** and **Computer Applications (PGDCA)**, I bring analytical thinking, structured problem-solving, and teaching experience into development.
 
-I enjoy working across the stack — backend APIs, modern web applications, and mobile apps — and continuously improve my skills by building practical, real-world projects.
+Alongside teaching computer fundamentals, I actively build **full-stack web applications** and **mobile apps**, continuously improving my skills through real-world projects.
 
 ---
 
@@ -40,12 +41,20 @@ I enjoy working across the stack — backend APIs, modern web applications, and 
 
 ---
 
+## 👨‍🏫 Teaching & Mentoring
+
+- Teaching computer fundamentals and programming concepts  
+- Guiding students in logic building and problem-solving  
+- Helping learners understand real-world applications of technology  
+
+---
+
 ## 📌 Focus Areas
 - Full-stack & mobile application development
 - API-driven architecture
 - Scalable backend logic
-- Continuous learning & improvement
+- Teaching and continuous learning
 
 ---
 
-### ⭐ *“Education gave me structure, coding gave me direction.”*
+### ⭐ *“Teaching strengthens my fundamentals; coding sharpens my skills.”*
